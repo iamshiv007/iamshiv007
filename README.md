@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${shiv007}.${[your.repo.id](https://github.com/iamshiv007/iamshiv007/edit/main/README.md)})
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shiv007&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
 <!--
 **iamshiv007/iamshiv007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
