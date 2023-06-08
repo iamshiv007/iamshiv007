@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi 👋
+### Namaste 🙏 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100" margin="10"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" margin="10"/>
+   <img src="https://media.giphy.com/media/h8CD39vtPVoMEoqZZ3/giphy.gif" width="100" margin="10"/>
+</div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${shiv007}.${[your.repo.id](https://github.com/iamshiv007/iamshiv007/edit/main/README.md)})
 
