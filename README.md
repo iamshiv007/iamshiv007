@@ -1,29 +1,34 @@
-### Hi 👋
+<h1 align='center'> 👋 Hi I'm <a href='https://shiv-s-blog.vercel.app' target='_blank'>Shivraj</a></h1>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100" margin="10"/>
-</div>
+- 🌱 learning from life and Javascript.
+  
+- 💬 Ask me about Logic Building, Startups and Software.
+  
+- 😄 Call Me Shiv
+  
+- ⚡ I injoy Travelling, Adventure, Movies, Playing Game, Rubik Cube, Friends, Sadness, Happiness, Anger, Fear and everything.
+  
+- 📫 just Google * Shivraj Gurjar React *
 
-<div id="badges">
+
+<h3>Social Media</h3>
+
+<div>
   <a href="https://www.linkedin.com/in/shivraj-gurjar-iamshiv007007/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
+  <a href="mailto:iamshiv20032003@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+   <a href="https://www.instagram.com/iam_shiv_726">
+     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+   </a>
 </div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamshiv007&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+    
+### Welcome to my Github profile
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamshiv007&show_icons=true&hide_border=true&theme=dark&count_private=true&include_all_commits=true" />
 
-<!--
-**iamshiv007/iamshiv007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
