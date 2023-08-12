@@ -2,7 +2,7 @@
 
 - 🌱 learning from life and Javascript.
   
-- 💬 Ask me about React, Javascript, Saas product, Startups and Coding Logics.
+- 💬 talk about :) ReactJS | Javascript | NextJS | Startup | business | Tech.
   
 - 😄 Call Me Shiv.
   
@@ -13,8 +13,8 @@
 
 ## Social Media
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivraj-gurjar-iamshiv007007/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamshiv20032003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivraj-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:softdev.shivraj@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iam_shiv_726)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShivrajGurjar15)
 
